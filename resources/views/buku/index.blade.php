@@ -2,7 +2,7 @@
 @section('username','Desi Ratna Sari')
 @section('content')
 
-<h4><b>Data Matakuliah</b></h4>
+<h4><b>Data Buku</b></h4>
 <br>
 <a href="{{ route('tambah_buku') }}" class="btn btn-primary btn-xs mb-2">Tambah Data</span></a>
 <table class="table table-striped table-bordered" width="100%">

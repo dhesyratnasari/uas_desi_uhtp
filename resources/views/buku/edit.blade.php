@@ -3,7 +3,7 @@
 @section('content')
 
 
-<h4><b>Edit Data Peminjam</b></h1>
+<h4><b>Edit Data Buku</b></h1>
 <br>
 <form action="{{ route('update_buku') }}" method="POST">
 

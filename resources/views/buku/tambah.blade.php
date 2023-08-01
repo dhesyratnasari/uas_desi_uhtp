@@ -3,7 +3,7 @@
 @section('content')
 
 
-<h4><b>Tambah Peminjam</b></h4>
+<h4><b>Tambah Buku</b></h4>
 <br>
 <form action="{{ route('simpan_buku') }}" method="POST">
 @csrf
